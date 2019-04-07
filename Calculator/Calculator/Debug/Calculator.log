@@ -1,0 +1,6 @@
+﻿  Calculator.cpp
+  CalculatorDlg.cpp
+c:\users\iukio96\source\repos\calculator\calculator\calculatordlg.cpp(246): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+c:\users\iukio96\source\repos\calculator\calculator\calculatordlg.cpp(244): warning C4101: field2: неиспользованная локальная переменная
+  Создание кода...
+  Calculator.vcxproj -> C:\Users\Iukio96\source\repos\Calculator\Debug\Calculator.exe
