@@ -1,0 +1,8 @@
+﻿  AttacCalculatorDlg.cpp
+c:\users\iukio96\source\repos\attaccalculator\attaccalculator\attaccalculatordlg.cpp(205): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\iukio96\source\repos\attaccalculator\attaccalculator\attaccalculatordlg.cpp(206): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\iukio96\source\repos\attaccalculator\attaccalculator\attaccalculatordlg.cpp(207): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\iukio96\source\repos\attaccalculator\attaccalculator\attaccalculatordlg.cpp(208): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+c:\users\iukio96\source\repos\attaccalculator\attaccalculator\attaccalculatordlg.cpp(201): warning C4101: m_pEdit2: неиспользованная локальная переменная
+c:\users\iukio96\source\repos\attaccalculator\attaccalculator\attaccalculatordlg.cpp(203): warning C4101: m_pEdit4: неиспользованная локальная переменная
+  AttacCalculator.vcxproj -> C:\Users\Iukio96\source\repos\AttacCalculator\Debug\AttacCalculator.exe
